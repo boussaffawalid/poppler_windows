@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\parseargs.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdfimages.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\ImageOutputDev.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\JSInfo.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\ImageOutputDev.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\JSInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FBAEB8E0-96DA-3232-ACEC-87E2395B7656}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BC89E1B9-98D9-3B9E-AB85-1E8B5C03A3B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

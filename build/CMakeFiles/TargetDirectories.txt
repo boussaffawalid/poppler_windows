@@ -1,0 +1,16 @@
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdfdetach.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/poppler.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdfseparate.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdffonts.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdfinfo.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdftohtml.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdfunite.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdfimages.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/test/CMakeFiles/pdf-fullrewrite.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/cpp/CMakeFiles/poppler-cpp.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdftotext.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdftoppm.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdftops.dir
+C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/utils/CMakeFiles/pdftocairo.dir

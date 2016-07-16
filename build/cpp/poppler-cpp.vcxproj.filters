@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-document.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-embedded-file.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-font.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-global.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-page.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-page-renderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-page-transition.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-private.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-rectangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-toc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\poppler-version.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FBAEB8E0-96DA-3232-ACEC-87E2395B7656}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

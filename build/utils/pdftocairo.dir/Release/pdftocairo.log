@@ -1,0 +1,60 @@
+﻿  Building Custom Rule C:/Users/walid/Desktop/poppler/poppler-0.45.0/utils/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\utils\CMakeFiles\generate.stamp is up-to-date.
+  parseargs.cc
+  pdftocairo.cc
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(495): error C2039: 'max': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(496): error C2039: 'min': is not a member of 'std'
+  predefined C++ types (compiler internal)(208): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(157): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(162): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(455): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(461): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(190): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(15): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(191): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(15): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(697): error C2039: 'fmax': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(697): error C2873: 'fmax': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(697): error C2039: 'fmin': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(697): error C2873: 'fmin': symbol cannot be used in a using-declaration
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\thirdparty\include\cairo\cairo-ft.h(50): fatal error C1083: Cannot open include file: 'fontconfig/fontconfig.h': No such file or directory
+  pdftocairo-win32.cc
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdftocairo-win32.cc(105): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdftocairo-win32.cc(106): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdftocairo-win32.cc(109): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdftocairo-win32.cc(110): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdftocairo-win32.cc(303): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdftocairo-win32.cc(521): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdftocairo-win32.cc(524): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdftocairo-win32.cc(526): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\utils\pdftocairo-win32.cc(527): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+  CairoFontEngine.cc
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\thirdparty\include\cairo\cairo-ft.h(50): fatal error C1083: Cannot open include file: 'fontconfig/fontconfig.h': No such file or directory
+  CairoOutputDev.cc
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(157): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(162): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(455): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(461): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(190): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(15): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(191): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(15): note: see declaration of 'std'
+c:\users\walid\desktop\poppler\poppler-0.45.0\poppler\GfxState.h(115): warning C4244: 'return': conversion from 'double' to 'Guchar', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\thirdparty\include\cairo\cairo-ft.h(50): fatal error C1083: Cannot open include file: 'fontconfig/fontconfig.h': No such file or directory
+  CairoRescaleBox.cc
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\CairoRescaleBox.cc(229): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\CairoRescaleBox.cc(230): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\CairoRescaleBox.cc(231): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\CairoRescaleBox.cc(232): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\CairoRescaleBox.cc(235): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\CairoRescaleBox.cc(256): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...

@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\gfile.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\gmempp.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\GooHash.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\GooList.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\GooTimer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\GooString.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\gmem.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\FixedPoint.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\NetPBMWriter.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\PNGWriter.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\TiffWriter.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\JpegWriter.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\ImgWriter.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\gstrtod.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\grandom.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\goo\glibc.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\fofi\FoFiBase.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\fofi\FoFiEncodings.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\fofi\FoFiTrueType.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\fofi\FoFiType1.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\fofi\FoFiType1C.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\fofi\FoFiIdentifier.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Annot.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Array.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\BuiltinFont.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\BuiltinFontTables.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\CachedFile.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Catalog.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\CharCodeToUnicode.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\CMap.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\DateInfo.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Decrypt.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Dict.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Error.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\FileSpec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\FontEncodingTables.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Form.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\FontInfo.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Function.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Gfx.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\GfxFont.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\GfxState.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\GlobalParams.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Hints.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\JArithmeticDecoder.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\JBIG2Stream.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Lexer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Link.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Linearization.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\LocalPDFDocBuilder.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\MarkedContentOutputDev.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\NameToCharCode.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Object.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\OptionalContent.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Outline.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\OutputDev.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Page.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\PageTransition.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Parser.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\PDFDoc.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\PDFDocEncoding.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\PDFDocFactory.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\PopplerCache.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\ProfileData.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\PreScanOutputDev.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\PSTokenizer.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\SignatureInfo.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Stream.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\StructTreeRoot.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\StructElement.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\strtok_r.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\UnicodeMap.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\UnicodeTypeTable.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\UTF.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\XRef.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\PSOutputDev.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\TextOutputDev.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\PageLabelInfo.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\SecurityHandler.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\StdinCachedFile.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\StdinPDFDocBuilder.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Sound.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\ViewerPreferences.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\XpdfPluginAPI.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Movie.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\Rendition.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\SplashOutputDev.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\Splash.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashBitmap.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashClip.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashFTFont.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashFTFontEngine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashFTFontFile.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashFont.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashFontEngine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashFontFile.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashFontFileID.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashPath.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashPattern.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashScreen.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashState.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashT1Font.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashT1FontEngine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashT1FontFile.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashXPath.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\splash\SplashXPathScanner.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\DCTStream.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\FlateEncoder.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\poppler\JPEG2000Stream.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\walid\Desktop\poppler\poppler-0.45.0\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FBAEB8E0-96DA-3232-ACEC-87E2395B7656}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,25 @@
+﻿  Building Custom Rule C:/Users/walid/Desktop/poppler/poppler-0.45.0/utils/CMakeLists.txt
+  CMake does not need to re-run because C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\utils\CMakeFiles\generate.stamp is up-to-date.
+  parseargs.cc
+  pdffonts.cc
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(495): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h(18): note: see declaration of 'std'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(496): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stddef.h(18): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(157): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(162): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(455): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(461): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cstdlib(17): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(190): error C2039: 'max': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(15): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(191): error C2039: 'min': is not a member of 'std'
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xtgmath.h(15): note: see declaration of 'std'
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(697): error C2039: 'fmax': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(697): error C2873: 'fmax': symbol cannot be used in a using-declaration
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(697): error C2039: 'fmin': is not a member of '`global namespace''
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\cmath(697): error C2873: 'fmin': symbol cannot be used in a using-declaration
+  Generating Code...

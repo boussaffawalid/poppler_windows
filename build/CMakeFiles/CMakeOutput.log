@@ -1,0 +1,862 @@
+The system is: Windows - 10.0.10586 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:35.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\3.4.0-rc3\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\3.4.0-rc3\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\3.4.0-rc3\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.51
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/3.4.0-rc3/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:36.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\3.4.0-rc3\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\3.4.0-rc3\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\3.4.0-rc3\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.54
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/3.4.0-rc3/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_fbf12.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:36.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_fbf12.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_fbf12.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_fbf12.dir\Debug\cmTC_fbf12.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_fbf12.dir\Debug\cmTC_fbf12.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fbf12.dir\Debug\\" /Fd"cmTC_fbf12.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_fbf12.dir\Debug\\" /Fd"cmTC_fbf12.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_fbf12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_fbf12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_fbf12.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_fbf12.dir\Debug\testCCompiler.obj
+  cmTC_fbf12.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_fbf12.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_fbf12.dir\Debug\cmTC_fbf12.tlog\unsuccessfulbuild".
+  Touching "cmTC_fbf12.dir\Debug\cmTC_fbf12.tlog\cmTC_fbf12.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_fbf12.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.73
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_bd8eb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:37.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_bd8eb.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_bd8eb.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_bd8eb.dir\Debug\cmTC_bd8eb.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_bd8eb.dir\Debug\cmTC_bd8eb.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bd8eb.dir\Debug\\" /Fd"cmTC_bd8eb.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_bd8eb.dir\Debug\\" /Fd"cmTC_bd8eb.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_bd8eb.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_bd8eb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_bd8eb.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_bd8eb.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_bd8eb.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_bd8eb.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_bd8eb.dir\Debug\cmTC_bd8eb.tlog\unsuccessfulbuild".
+  Touching "cmTC_bd8eb.dir\Debug\cmTC_bd8eb.tlog\cmTC_bd8eb.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_bd8eb.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.67
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_b65b8.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:38.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_b65b8.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_b65b8.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_b65b8.dir\Debug\cmTC_b65b8.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_b65b8.dir\Debug\cmTC_b65b8.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b65b8.dir\Debug\\" /Fd"cmTC_b65b8.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_b65b8.dir\Debug\\" /Fd"cmTC_b65b8.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_b65b8.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_b65b8.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_b65b8.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_b65b8.dir\Debug\testCXXCompiler.obj
+  cmTC_b65b8.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_b65b8.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_b65b8.dir\Debug\cmTC_b65b8.tlog\unsuccessfulbuild".
+  Touching "cmTC_b65b8.dir\Debug\cmTC_b65b8.tlog\cmTC_b65b8.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_b65b8.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.59
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_33a15.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:39.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_33a15.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_33a15.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_33a15.dir\Debug\cmTC_33a15.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_33a15.dir\Debug\cmTC_33a15.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_33a15.dir\Debug\\" /Fd"cmTC_33a15.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_33a15.dir\Debug\\" /Fd"cmTC_33a15.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_33a15.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_33a15.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_33a15.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_33a15.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_33a15.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_33a15.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_33a15.dir\Debug\cmTC_33a15.tlog\unsuccessfulbuild".
+  Touching "cmTC_33a15.dir\Debug\cmTC_33a15.tlog\cmTC_33a15.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_33a15.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.60
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_c5a34.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:40.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c5a34.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c5a34.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c5a34.dir\Debug\cmTC_c5a34.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c5a34.dir\Debug\cmTC_c5a34.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c5a34.dir\Debug\\" /Fd"cmTC_c5a34.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_c5a34.dir\Debug\\" /Fd"cmTC_c5a34.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_c5a34.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_c5a34.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_c5a34.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_c5a34.dir\Debug\feature_tests.obj
+  cmTC_c5a34.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_c5a34.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_c5a34.dir\Debug\cmTC_c5a34.tlog\unsuccessfulbuild".
+  Touching "cmTC_c5a34.dir\Debug\cmTC_c5a34.tlog\cmTC_c5a34.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c5a34.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.65
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_c2b72.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:41.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c2b72.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c2b72.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c2b72.dir\Debug\cmTC_c2b72.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c2b72.dir\Debug\cmTC_c2b72.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c2b72.dir\Debug\\" /Fd"cmTC_c2b72.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c2b72.dir\Debug\\" /Fd"cmTC_c2b72.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_c2b72.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_c2b72.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_c2b72.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_c2b72.dir\Debug\CheckIncludeFile.obj
+  cmTC_c2b72.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_c2b72.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_c2b72.dir\Debug\cmTC_c2b72.tlog\unsuccessfulbuild".
+  Touching "cmTC_c2b72.dir\Debug\cmTC_c2b72.tlog\cmTC_c2b72.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c2b72.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.59
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_95c78.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:42.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_95c78.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_95c78.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_95c78.dir\Debug\cmTC_95c78.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_95c78.dir\Debug\cmTC_95c78.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_95c78.dir\Debug\\" /Fd"cmTC_95c78.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_95c78.dir\Debug\\" /Fd"cmTC_95c78.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_95c78.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_95c78.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_95c78.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_95c78.dir\Debug\CheckIncludeFile.obj
+  cmTC_95c78.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_95c78.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_95c78.dir\Debug\cmTC_95c78.tlog\unsuccessfulbuild".
+  Touching "cmTC_95c78.dir\Debug\cmTC_95c78.tlog\cmTC_95c78.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_95c78.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.67
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_c0b3e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:43.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c0b3e.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c0b3e.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c0b3e.dir\Debug\cmTC_c0b3e.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c0b3e.dir\Debug\cmTC_c0b3e.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c0b3e.dir\Debug\\" /Fd"cmTC_c0b3e.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c0b3e.dir\Debug\\" /Fd"cmTC_c0b3e.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_c0b3e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_c0b3e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_c0b3e.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_c0b3e.dir\Debug\CheckIncludeFile.obj
+  cmTC_c0b3e.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_c0b3e.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_c0b3e.dir\Debug\cmTC_c0b3e.tlog\unsuccessfulbuild".
+  Touching "cmTC_c0b3e.dir\Debug\cmTC_c0b3e.tlog\cmTC_c0b3e.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c0b3e.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.62
+
+
+Determining size of unsigned short passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_743ec.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:44.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_743ec.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_743ec.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_743ec.dir\Debug\cmTC_743ec.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_743ec.dir\Debug\cmTC_743ec.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_743ec.dir\Debug\\" /Fd"cmTC_743ec.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CheckTypeSize\CMAKE_SIZEOF_UNSIGNED_SHORT.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_743ec.dir\Debug\\" /Fd"cmTC_743ec.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CheckTypeSize\CMAKE_SIZEOF_UNSIGNED_SHORT.c"
+  
+  CMAKE_SIZEOF_UNSIGNED_SHORT.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_743ec.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_743ec.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_743ec.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_743ec.dir\Debug\CMAKE_SIZEOF_UNSIGNED_SHORT.obj
+  cmTC_743ec.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_743ec.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_743ec.dir\Debug\cmTC_743ec.tlog\unsuccessfulbuild".
+  Touching "cmTC_743ec.dir\Debug\cmTC_743ec.tlog\cmTC_743ec.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_743ec.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.60
+
+
+Performing C++ SOURCE FILE Test ICONV_SECOND_ARGUMENT_IS_CONST succeded with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_4bf3a.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:47.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_4bf3a.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_4bf3a.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_4bf3a.dir\Debug\cmTC_4bf3a.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_4bf3a.dir\Debug\cmTC_4bf3a.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\walid\Desktop\poppler\poppler-0.45.0\thirdparty\include" /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D ICONV_SECOND_ARGUMENT_IS_CONST /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4bf3a.dir\Debug\\" /Fd"cmTC_4bf3a.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Users\walid\Desktop\poppler\poppler-0.45.0\thirdparty\include" /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D ICONV_SECOND_ARGUMENT_IS_CONST /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_4bf3a.dir\Debug\\" /Fd"cmTC_4bf3a.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.cxx"
+  
+  src.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_4bf3a.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib "C:\Users\walid\Desktop\poppler\poppler-0.45.0\thirdparty\lib\libiconv.lib" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_4bf3a.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_4bf3a.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_4bf3a.dir\Debug\src.obj
+  cmTC_4bf3a.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_4bf3a.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_4bf3a.dir\Debug\cmTC_4bf3a.tlog\unsuccessfulbuild".
+  Touching "cmTC_4bf3a.dir\Debug\cmTC_4bf3a.tlog\cmTC_4bf3a.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_4bf3a.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.62
+
+Source file was:
+
+  #include <iconv.h>
+  int main(){
+    iconv_t conv = 0;
+    const char* in = 0;
+    size_t ilen = 0;
+    char* out = 0;
+    size_t olen = 0;
+    iconv(conv, &in, &ilen, &out, &olen);
+    return 0;
+  }
+
+Determining if files fcntl.h exist passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_f95dc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:48.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_f95dc.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_f95dc.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_f95dc.dir\Debug\cmTC_f95dc.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_f95dc.dir\Debug\cmTC_f95dc.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f95dc.dir\Debug\\" /Fd"cmTC_f95dc.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_f95dc.dir\Debug\\" /Fd"cmTC_f95dc.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_f95dc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_f95dc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_f95dc.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_f95dc.dir\Debug\CheckIncludeFiles.obj
+  cmTC_f95dc.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_f95dc.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_f95dc.dir\Debug\cmTC_f95dc.tlog\unsuccessfulbuild".
+  Touching "cmTC_f95dc.dir\Debug\cmTC_f95dc.tlog\cmTC_f95dc.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_f95dc.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.64
+
+
+Determining if files inttypes.h exist passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_274df.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:49.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_274df.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_274df.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_274df.dir\Debug\cmTC_274df.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_274df.dir\Debug\cmTC_274df.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_274df.dir\Debug\\" /Fd"cmTC_274df.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_274df.dir\Debug\\" /Fd"cmTC_274df.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_274df.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_274df.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_274df.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_274df.dir\Debug\CheckIncludeFiles.obj
+  cmTC_274df.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_274df.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_274df.dir\Debug\cmTC_274df.tlog\unsuccessfulbuild".
+  Touching "cmTC_274df.dir\Debug\cmTC_274df.tlog\cmTC_274df.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_274df.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.57
+
+
+Determining if files memory.h exist passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_dd1bd.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:50.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_dd1bd.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_dd1bd.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_dd1bd.dir\Debug\cmTC_dd1bd.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_dd1bd.dir\Debug\cmTC_dd1bd.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dd1bd.dir\Debug\\" /Fd"cmTC_dd1bd.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_dd1bd.dir\Debug\\" /Fd"cmTC_dd1bd.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_dd1bd.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_dd1bd.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_dd1bd.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_dd1bd.dir\Debug\CheckIncludeFiles.obj
+  cmTC_dd1bd.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_dd1bd.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_dd1bd.dir\Debug\cmTC_dd1bd.tlog\unsuccessfulbuild".
+  Touching "cmTC_dd1bd.dir\Debug\cmTC_dd1bd.tlog\cmTC_dd1bd.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_dd1bd.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.64
+
+
+Determining if files stdlib.h exist passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_57318.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:51.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_57318.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_57318.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_57318.dir\Debug\cmTC_57318.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_57318.dir\Debug\cmTC_57318.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_57318.dir\Debug\\" /Fd"cmTC_57318.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_57318.dir\Debug\\" /Fd"cmTC_57318.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_57318.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_57318.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_57318.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_57318.dir\Debug\CheckIncludeFiles.obj
+  cmTC_57318.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_57318.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_57318.dir\Debug\cmTC_57318.tlog\unsuccessfulbuild".
+  Touching "cmTC_57318.dir\Debug\cmTC_57318.tlog\cmTC_57318.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_57318.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.62
+
+
+Determining if files string.h exist passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_13602.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:52.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_13602.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_13602.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_13602.dir\Debug\cmTC_13602.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_13602.dir\Debug\cmTC_13602.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_13602.dir\Debug\\" /Fd"cmTC_13602.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_13602.dir\Debug\\" /Fd"cmTC_13602.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_13602.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_13602.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_13602.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_13602.dir\Debug\CheckIncludeFiles.obj
+  cmTC_13602.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_13602.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_13602.dir\Debug\cmTC_13602.tlog\unsuccessfulbuild".
+  Touching "cmTC_13602.dir\Debug\cmTC_13602.tlog\cmTC_13602.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_13602.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.60
+
+
+Determining if files sys/stat.h exist passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_05ba5.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:53.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_05ba5.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_05ba5.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_05ba5.dir\Debug\cmTC_05ba5.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_05ba5.dir\Debug\cmTC_05ba5.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_05ba5.dir\Debug\\" /Fd"cmTC_05ba5.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_05ba5.dir\Debug\\" /Fd"cmTC_05ba5.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_05ba5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_05ba5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_05ba5.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_05ba5.dir\Debug\CheckIncludeFiles.obj
+  cmTC_05ba5.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_05ba5.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_05ba5.dir\Debug\cmTC_05ba5.tlog\unsuccessfulbuild".
+  Touching "cmTC_05ba5.dir\Debug\cmTC_05ba5.tlog\cmTC_05ba5.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_05ba5.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.61
+
+
+Determining if the function strcpy_s exists passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_e01a4.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:02.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_e01a4.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_e01a4.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_e01a4.dir\Debug\cmTC_e01a4.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_e01a4.dir\Debug\cmTC_e01a4.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strcpy_s /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e01a4.dir\Debug\\" /Fd"cmTC_e01a4.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strcpy_s /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_e01a4.dir\Debug\\" /Fd"cmTC_e01a4.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_e01a4.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_e01a4.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_e01a4.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_e01a4.dir\Debug\CheckFunctionExists.obj
+  cmTC_e01a4.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_e01a4.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_e01a4.dir\Debug\cmTC_e01a4.tlog\unsuccessfulbuild".
+  Touching "cmTC_e01a4.dir\Debug\cmTC_e01a4.tlog\cmTC_e01a4.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_e01a4.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.57
+
+
+Determining if the function strcat_s exists passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_2ab6b.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:03.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_2ab6b.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_2ab6b.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_2ab6b.dir\Debug\cmTC_2ab6b.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_2ab6b.dir\Debug\cmTC_2ab6b.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strcat_s /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2ab6b.dir\Debug\\" /Fd"cmTC_2ab6b.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=strcat_s /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_2ab6b.dir\Debug\\" /Fd"cmTC_2ab6b.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_2ab6b.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_2ab6b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_2ab6b.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_2ab6b.dir\Debug\CheckFunctionExists.obj
+  cmTC_2ab6b.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_2ab6b.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_2ab6b.dir\Debug\cmTC_2ab6b.tlog\unsuccessfulbuild".
+  Touching "cmTC_2ab6b.dir\Debug\cmTC_2ab6b.tlog\cmTC_2ab6b.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_2ab6b.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.59
+
+

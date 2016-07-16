@@ -1,0 +1,1114 @@
+Determining if the include file pthread.h exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_c5348.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:41.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c5348.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_c5348.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_c5348.dir\Debug\cmTC_c5348.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_c5348.dir\Debug\cmTC_c5348.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c5348.dir\Debug\\" /Fd"cmTC_c5348.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c5348.dir\Debug\\" /Fd"cmTC_c5348.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c"
+  
+  CheckIncludeFile.c
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c5348.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c5348.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c5348.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_c5348.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+
+Determining if the system is big endian passed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_3bde1.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:44.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_3bde1.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_3bde1.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_3bde1.dir\Debug\cmTC_3bde1.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_3bde1.dir\Debug\cmTC_3bde1.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3bde1.dir\Debug\\" /Fd"cmTC_3bde1.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\TestEndianess.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_3bde1.dir\Debug\\" /Fd"cmTC_3bde1.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\TestEndianess.c"
+  
+  TestEndianess.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_3bde1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_3bde1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_3bde1.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_3bde1.dir\Debug\TestEndianess.obj
+  cmTC_3bde1.vcxproj -> C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_3bde1.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_3bde1.dir\Debug\cmTC_3bde1.tlog\unsuccessfulbuild".
+  Touching "cmTC_3bde1.dir\Debug\cmTC_3bde1.tlog\cmTC_3bde1.lastbuildstate".
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_3bde1.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.84
+
+TestEndianess.c:
+/* A 16 bit integer is required. */
+typedef unsigned short cmakeint16;
+
+/* On a little endian machine, these 16bit ints will give "THIS IS LITTLE ENDIAN."
+   On a big endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_little[] =  {0x4854, 0x5349, 0x4920, 0x2053, 0x494c, 0x5454, 0x454c, 0x4520, 0x444e, 0x4149, 0x2e4e, 0x0000};
+
+/* on a big endian machine, these 16bit ints will give "THIS IS BIG ENDIAN."
+   On a little endian machine the characters will be exchanged pairwise. */
+const cmakeint16 info_big[] =     {0x5448, 0x4953, 0x2049, 0x5320, 0x4249, 0x4720, 0x454e, 0x4449, 0x414e, 0x2e2e, 0x0000};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_little[argc];
+  require += info_big[argc];
+  (void)argv;
+  return require;
+}
+
+
+Determining if files dlfcn.h exist failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_56e76.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:48.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_56e76.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_56e76.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_56e76.dir\Debug\cmTC_56e76.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_56e76.dir\Debug\cmTC_56e76.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_56e76.dir\Debug\\" /Fd"cmTC_56e76.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_56e76.dir\Debug\\" /Fd"cmTC_56e76.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'dlfcn.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_56e76.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_56e76.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_56e76.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'dlfcn.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_56e76.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+Source:
+/* */
+#include <dlfcn.h>
+
+
+int main(void){return 0;}
+
+Determining if files strings.h exist failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_a6fa5.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:51.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_a6fa5.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_a6fa5.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_a6fa5.dir\Debug\cmTC_a6fa5.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_a6fa5.dir\Debug\cmTC_a6fa5.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a6fa5.dir\Debug\\" /Fd"cmTC_a6fa5.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a6fa5.dir\Debug\\" /Fd"cmTC_a6fa5.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'strings.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_a6fa5.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_a6fa5.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_a6fa5.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'strings.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_a6fa5.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.28
+
+Source:
+/* */
+#include <strings.h>
+
+
+int main(void){return 0;}
+
+Determining if files sys/mman.h exist failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_cfb30.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:53.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cfb30.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_cfb30.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_cfb30.dir\Debug\cmTC_cfb30.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_cfb30.dir\Debug\cmTC_cfb30.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cfb30.dir\Debug\\" /Fd"cmTC_cfb30.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cfb30.dir\Debug\\" /Fd"cmTC_cfb30.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'sys/mman.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cfb30.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cfb30.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cfb30.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'sys/mman.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cfb30.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+Source:
+/* */
+#include <sys/mman.h>
+
+
+int main(void){return 0;}
+
+Determining if files unistd.h exist failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_55a9d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:54.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_55a9d.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_55a9d.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_55a9d.dir\Debug\cmTC_55a9d.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_55a9d.dir\Debug\cmTC_55a9d.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_55a9d.dir\Debug\\" /Fd"cmTC_55a9d.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_55a9d.dir\Debug\\" /Fd"cmTC_55a9d.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_55a9d.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_55a9d.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_55a9d.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c(2): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_55a9d.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+Source:
+/* */
+#include <unistd.h>
+
+
+int main(void){return 0;}
+
+Determining if the function fseek64 exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_08b74.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:54.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_08b74.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_08b74.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_08b74.dir\Debug\cmTC_08b74.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_08b74.dir\Debug\cmTC_08b74.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseek64 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_08b74.dir\Debug\\" /Fd"cmTC_08b74.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseek64 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_08b74.dir\Debug\\" /Fd"cmTC_08b74.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_08b74.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_08b74.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_08b74.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_08b74.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _fseek64 referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_08b74.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_08b74.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_08b74.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_08b74.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_08b74.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _fseek64 referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_08b74.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_08b74.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_08b74.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.46
+
+
+Determining if the function fseeko exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_5d5a2.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:55.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5d5a2.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_5d5a2.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_5d5a2.dir\Debug\cmTC_5d5a2.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_5d5a2.dir\Debug\cmTC_5d5a2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5d5a2.dir\Debug\\" /Fd"cmTC_5d5a2.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=fseeko /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5d5a2.dir\Debug\\" /Fd"cmTC_5d5a2.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_5d5a2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_5d5a2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_5d5a2.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_5d5a2.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _fseeko referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5d5a2.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_5d5a2.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5d5a2.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5d5a2.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5d5a2.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _fseeko referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5d5a2.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_5d5a2.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5d5a2.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.43
+
+
+Determining if the function ftell64 exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_603b2.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:55.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_603b2.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_603b2.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_603b2.dir\Debug\cmTC_603b2.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_603b2.dir\Debug\cmTC_603b2.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=ftell64 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_603b2.dir\Debug\\" /Fd"cmTC_603b2.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=ftell64 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_603b2.dir\Debug\\" /Fd"cmTC_603b2.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_603b2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_603b2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_603b2.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_603b2.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _ftell64 referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_603b2.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_603b2.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_603b2.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_603b2.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_603b2.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _ftell64 referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_603b2.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_603b2.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_603b2.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.54
+
+
+Determining if the function pread64 exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_8879d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:56.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_8879d.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_8879d.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_8879d.dir\Debug\cmTC_8879d.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_8879d.dir\Debug\cmTC_8879d.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pread64 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8879d.dir\Debug\\" /Fd"cmTC_8879d.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pread64 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_8879d.dir\Debug\\" /Fd"cmTC_8879d.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_8879d.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_8879d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_8879d.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_8879d.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _pread64 referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_8879d.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_8879d.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_8879d.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_8879d.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_8879d.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _pread64 referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_8879d.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_8879d.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_8879d.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.43
+
+
+Determining if the function lseek64 exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_cf42e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:57.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cf42e.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_cf42e.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_cf42e.dir\Debug\cmTC_cf42e.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_cf42e.dir\Debug\cmTC_cf42e.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=lseek64 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cf42e.dir\Debug\\" /Fd"cmTC_cf42e.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=lseek64 /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_cf42e.dir\Debug\\" /Fd"cmTC_cf42e.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_cf42e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_cf42e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_cf42e.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_cf42e.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _lseek64 referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cf42e.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_cf42e.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cf42e.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cf42e.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cf42e.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _lseek64 referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cf42e.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_cf42e.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_cf42e.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.43
+
+
+Determining if the function gmtime_r exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_1e0bc.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:57.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1e0bc.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_1e0bc.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_1e0bc.dir\Debug\cmTC_1e0bc.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_1e0bc.dir\Debug\cmTC_1e0bc.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gmtime_r /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1e0bc.dir\Debug\\" /Fd"cmTC_1e0bc.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gmtime_r /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1e0bc.dir\Debug\\" /Fd"cmTC_1e0bc.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_1e0bc.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_1e0bc.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_1e0bc.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_1e0bc.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _gmtime_r referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1e0bc.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_1e0bc.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1e0bc.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1e0bc.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1e0bc.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _gmtime_r referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1e0bc.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_1e0bc.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1e0bc.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.45
+
+
+Determining if the function timegm exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_5203e.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:58.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5203e.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_5203e.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_5203e.dir\Debug\cmTC_5203e.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_5203e.dir\Debug\cmTC_5203e.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=timegm /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5203e.dir\Debug\\" /Fd"cmTC_5203e.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=timegm /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5203e.dir\Debug\\" /Fd"cmTC_5203e.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_5203e.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_5203e.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_5203e.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_5203e.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _timegm referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5203e.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_5203e.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5203e.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5203e.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5203e.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _timegm referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5203e.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_5203e.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_5203e.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.43
+
+
+Determining if the function gettimeofday exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_d70cf.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:58.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_d70cf.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_d70cf.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_d70cf.dir\Debug\cmTC_d70cf.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_d70cf.dir\Debug\cmTC_d70cf.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gettimeofday /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d70cf.dir\Debug\\" /Fd"cmTC_d70cf.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=gettimeofday /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_d70cf.dir\Debug\\" /Fd"cmTC_d70cf.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_d70cf.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_d70cf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_d70cf.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_d70cf.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _gettimeofday referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_d70cf.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_d70cf.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_d70cf.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_d70cf.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_d70cf.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _gettimeofday referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_d70cf.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_d70cf.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_d70cf.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.45
+
+
+Determining if the function localtime_r exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_394d5.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:10:59.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_394d5.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_394d5.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_394d5.dir\Debug\cmTC_394d5.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_394d5.dir\Debug\cmTC_394d5.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=localtime_r /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_394d5.dir\Debug\\" /Fd"cmTC_394d5.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=localtime_r /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_394d5.dir\Debug\\" /Fd"cmTC_394d5.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_394d5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_394d5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_394d5.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_394d5.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _localtime_r referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_394d5.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_394d5.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_394d5.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_394d5.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_394d5.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _localtime_r referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_394d5.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_394d5.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_394d5.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.46
+
+
+Determining if the function popen exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_ce8eb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:00.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce8eb.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_ce8eb.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_ce8eb.dir\Debug\cmTC_ce8eb.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_ce8eb.dir\Debug\cmTC_ce8eb.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=popen /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ce8eb.dir\Debug\\" /Fd"cmTC_ce8eb.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=popen /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ce8eb.dir\Debug\\" /Fd"cmTC_ce8eb.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_ce8eb.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_ce8eb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_ce8eb.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_ce8eb.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _popen referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce8eb.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_ce8eb.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce8eb.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce8eb.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce8eb.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _popen referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce8eb.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_ce8eb.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce8eb.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.46
+
+
+Determining if the function mkstemp exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_40d09.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:00.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_40d09.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_40d09.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_40d09.dir\Debug\cmTC_40d09.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_40d09.dir\Debug\cmTC_40d09.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=mkstemp /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_40d09.dir\Debug\\" /Fd"cmTC_40d09.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=mkstemp /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_40d09.dir\Debug\\" /Fd"cmTC_40d09.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_40d09.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_40d09.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_40d09.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_40d09.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _mkstemp referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_40d09.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_40d09.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_40d09.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_40d09.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_40d09.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _mkstemp referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_40d09.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_40d09.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_40d09.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.46
+
+
+Determining if the function mkstemps exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_114cb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:01.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_114cb.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_114cb.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_114cb.dir\Debug\cmTC_114cb.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_114cb.dir\Debug\cmTC_114cb.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=mkstemps /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_114cb.dir\Debug\\" /Fd"cmTC_114cb.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=mkstemps /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_114cb.dir\Debug\\" /Fd"cmTC_114cb.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_114cb.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_114cb.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_114cb.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_114cb.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _mkstemps referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_114cb.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_114cb.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_114cb.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_114cb.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_114cb.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _mkstemps referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_114cb.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_114cb.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_114cb.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.43
+
+
+Determining if the function rand_r exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_01a24.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:01.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_01a24.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_01a24.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_01a24.dir\Debug\cmTC_01a24.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_01a24.dir\Debug\cmTC_01a24.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=rand_r /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_01a24.dir\Debug\\" /Fd"cmTC_01a24.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=rand_r /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_01a24.dir\Debug\\" /Fd"cmTC_01a24.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_01a24.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_01a24.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_01a24.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_01a24.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _rand_r referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_01a24.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_01a24.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_01a24.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_01a24.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_01a24.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _rand_r referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_01a24.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_01a24.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_01a24.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.48
+
+
+Performing C SOURCE FILE Test HAVE_DIRENT_H failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_384c8.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:04.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_384c8.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_384c8.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_384c8.dir\Debug\cmTC_384c8.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_384c8.dir\Debug\cmTC_384c8.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D HAVE_DIRENT_H /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_384c8.dir\Debug\\" /Fd"cmTC_384c8.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D HAVE_DIRENT_H /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_384c8.dir\Debug\\" /Fd"cmTC_384c8.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c"
+  
+  src.c
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: Cannot open include file: 'dirent.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_384c8.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_384c8.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_384c8.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: Cannot open include file: 'dirent.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_384c8.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.30
+
+Source file was:
+#include <dirent.h>
+
+int main(int argc, char *argv[])
+{
+  DIR* d = 0;
+  return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_NDIR_H failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_ce3b6.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:04.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce3b6.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_ce3b6.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_ce3b6.dir\Debug\cmTC_ce3b6.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_ce3b6.dir\Debug\cmTC_ce3b6.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D HAVE_NDIR_H /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ce3b6.dir\Debug\\" /Fd"cmTC_ce3b6.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D HAVE_NDIR_H /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_ce3b6.dir\Debug\\" /Fd"cmTC_ce3b6.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c"
+  
+  src.c
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: Cannot open include file: 'ndir.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce3b6.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce3b6.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce3b6.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: Cannot open include file: 'ndir.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_ce3b6.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.29
+
+Source file was:
+#include <ndir.h>
+
+int main(int argc, char *argv[])
+{
+  DIR* d = 0;
+  return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_SYS_DIR_H failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_61a90.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:04.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_61a90.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_61a90.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_61a90.dir\Debug\cmTC_61a90.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_61a90.dir\Debug\cmTC_61a90.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D HAVE_SYS_DIR_H /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_61a90.dir\Debug\\" /Fd"cmTC_61a90.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D HAVE_SYS_DIR_H /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_61a90.dir\Debug\\" /Fd"cmTC_61a90.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c"
+  
+  src.c
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: Cannot open include file: 'sys/dir.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_61a90.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_61a90.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_61a90.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: Cannot open include file: 'sys/dir.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_61a90.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.31
+
+Source file was:
+#include <sys/dir.h>
+
+int main(int argc, char *argv[])
+{
+  DIR* d = 0;
+  return 0;
+}
+
+Performing C SOURCE FILE Test HAVE_SYS_NDIR_H failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_1cecb.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:05.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1cecb.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_1cecb.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_1cecb.dir\Debug\cmTC_1cecb.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_1cecb.dir\Debug\cmTC_1cecb.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D HAVE_SYS_NDIR_H /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1cecb.dir\Debug\\" /Fd"cmTC_1cecb.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D HAVE_SYS_NDIR_H /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_1cecb.dir\Debug\\" /Fd"cmTC_1cecb.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c"
+  
+  src.c
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: Cannot open include file: 'sys/ndir.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1cecb.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1cecb.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1cecb.vcxproj" (default target) (1) ->
+(ClCompile target) -> 
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\src.c(1): fatal error C1083: Cannot open include file: 'sys/ndir.h': No such file or directory [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_1cecb.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.26
+
+Source file was:
+#include <sys/ndir.h>
+
+int main(int argc, char *argv[])
+{
+  DIR* d = 0;
+  return 0;
+}
+
+Determining if the function nanosleep exists failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_83f96.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:05.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_83f96.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_83f96.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_83f96.dir\Debug\cmTC_83f96.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_83f96.dir\Debug\cmTC_83f96.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=nanosleep /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_83f96.dir\Debug\\" /Fd"cmTC_83f96.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=nanosleep /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_83f96.dir\Debug\\" /Fd"cmTC_83f96.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_83f96.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_83f96.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_83f96.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_83f96.dir\Debug\CheckFunctionExists.obj
+CheckFunctionExists.obj : error LNK2019: unresolved external symbol _nanosleep referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_83f96.vcxproj]
+C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_83f96.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_83f96.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_83f96.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_83f96.vcxproj" (default target) (1) ->
+(Link target) -> 
+  CheckFunctionExists.obj : error LNK2019: unresolved external symbol _nanosleep referenced in function _main [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_83f96.vcxproj]
+  C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_83f96.exe : fatal error LNK1120: 1 unresolved externals [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_83f96.vcxproj]
+
+    0 Warning(s)
+    2 Error(s)
+
+Time Elapsed 00:00:00.45
+
+
+Determining if the function nanosleep exists in the rt failed with the following output:
+Change Dir: C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTC_b1b7c.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.24720.0
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 16/07/2016 00:11:06.
+The target "BeforeGenerateProjectPriFile" listed in a BeforeTargets attribute at "C:\Program Files (x86)\MSBuild\Microsoft\NuGet\Microsoft.NuGet.targets (186,61)" does not exist in the project, and will be ignored.
+Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_b1b7c.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_b1b7c.dir\Debug\".
+  Creating directory "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_b1b7c.dir\Debug\cmTC_b1b7c.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_b1b7c.dir\Debug\cmTC_b1b7c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=nanosleep /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b1b7c.dir\Debug\\" /Fd"cmTC_b1b7c.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.23506 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=nanosleep /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_b1b7c.dir\Debug\\" /Fd"cmTC_b1b7c.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.4\Modules\CheckFunctionExists.c"
+  
+  CheckFunctionExists.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\Debug\cmTC_b1b7c.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib rt.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_b1b7c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/walid/Desktop/poppler/poppler-0.45.0/build/CMakeFiles/CMakeTmp/Debug/cmTC_b1b7c.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTC_b1b7c.dir\Debug\CheckFunctionExists.obj
+LINK : fatal error LNK1104: cannot open file 'rt.lib' [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_b1b7c.vcxproj]
+Done Building Project "C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_b1b7c.vcxproj" (default targets) -- FAILED.
+
+Build FAILED.
+
+"C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_b1b7c.vcxproj" (default target) (1) ->
+(Link target) -> 
+  LINK : fatal error LNK1104: cannot open file 'rt.lib' [C:\Users\walid\Desktop\poppler\poppler-0.45.0\build\CMakeFiles\CMakeTmp\cmTC_b1b7c.vcxproj]
+
+    0 Warning(s)
+    1 Error(s)
+
+Time Elapsed 00:00:00.34
+
+
